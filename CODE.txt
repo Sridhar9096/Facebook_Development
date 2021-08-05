@@ -2,3 +2,4 @@ Code
 Openpage
 Last seen
 Privacy
+Hiding the last seen
