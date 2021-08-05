@@ -3,3 +3,5 @@ Openpage
 Last seen
 Privacy
 Hiding the last seen
+Execute audio call features
+Execute video call features
